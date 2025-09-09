@@ -1,0 +1,8 @@
+{
+  "name": "9FCoin",
+  "symbol": "9FC",
+  "description": "9FCoin fungible token",
+  "image": "https://9fstudio.com/storage/partners/092024-9fstudio-black-white-logo-10.jpg",
+  "attributes": [],
+  "properties": { "category": "ft" }
+}
